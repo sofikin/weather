@@ -16,7 +16,7 @@ function weatherDataFetch(city){
 }
 
 function cityWeather(e){
-    weatherDataFetch("Tallinn");
+    weatherDataFetch("Tartu");
 }
 
 function drawWeather(data){

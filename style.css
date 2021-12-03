@@ -16,3 +16,7 @@ body {
     position: fixed;
     font-size: xx-large;
 }
+
+#description {
+    text-transform: uppercase;
+}
