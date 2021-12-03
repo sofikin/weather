@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&display=swap');
+
+body {
+    font-family: 'Crimson Pro', serif;
+    background-color: #292834;
+    color: #ff47ab;
+}
+
+#weather {
+    display: inline-block;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    font-size: xx-large;
+}
